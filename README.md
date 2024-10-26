@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an Informatics student passionate about explor
 
 ## About Me
 
-- 🎓 Currently studying Informatics at ČZU, and core curriculum @42Prague
+- 🎓 Currently studying Informatics at ČZU
 - 💻 Enthusiastic about coding projects 
 - 🤔 Interested in Data Science
 
