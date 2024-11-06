@@ -1,6 +1,6 @@
 # Hello, I'm Jimena! 👋
 
-Welcome to my GitHub profile! I'm an Informatics student passionate about exploring the fascinating world of software development and technology.
+Welcome to my GitHub profile! I'm an Informatics student passionate about exploring the fascinating world of data science and technology.
 
 ## About Me
 
