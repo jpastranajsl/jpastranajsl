@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an Informatics student passionate about explor
 ## Get in Touch
 
 - 🔗 Connect with me on LinkedIn https://www.linkedin.com/in/jimenapastrana0413/
-- 📧 Email me at jimepastranaj@icloud.com
+- 📧 Email me at jimepastranaj@gmail.com
 
 <!---
 jpastranajsl/jpastranajsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
